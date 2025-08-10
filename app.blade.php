@@ -17,6 +17,7 @@
         <a href="/items" class="px-3 py-1 rounded-full bg-zinc-900 border border-zinc-800">Склад</a>
         <a href="/intake" class="px-3 py-1 rounded-full bg-zinc-900 border border-zinc-800">Приход</a>
         <a href="/returns" class="px-3 py-1 rounded-full bg-zinc-900 border border-zinc-800">Возвраты</a>
+        <a href="/work" class="px-3 py-1 rounded-full bg-zinc-900 border border-zinc-800">Работа</a>
         <a href="/cz" class="px-3 py-1 rounded-full bg-zinc-900 border border-zinc-800">ЧЗ</a>
         <a href="/cz/scan" class="px-3 py-1 rounded-full bg-zinc-900 border border-zinc-800">Сканер</a>
       </nav>

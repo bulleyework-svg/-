@@ -3,6 +3,7 @@
 /public/build/
 /storage/*.key
 .env
+package-lock.json
 .phpunit.cache
 .php-cs-fixer.cache
 /.idea/
