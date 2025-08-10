@@ -1,0 +1,3 @@
+#!/usr/bin/env php
+<?php
+echo "Run `composer install` to initialize Laravel.\n";
